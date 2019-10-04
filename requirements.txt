@@ -1,5 +1,9 @@
 requests
 
 # Development
+black
+flake8
+flake8-bugbear
 pdbpp
+pep8-naming
 pytest
